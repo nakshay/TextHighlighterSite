@@ -1,0 +1,6 @@
+{
+  "name": "Website",
+  "tagline": "",
+  "body": "<HTML>\r\n<HEAD>\r\n<Title>Index page</title>\r\n<Body>\r\n This is demo site\r\n</body>\r\n</HEAD>\r\n</HTML>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
