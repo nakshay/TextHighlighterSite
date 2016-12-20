@@ -1,8 +1,8 @@
 <HTML>
 <HEAD>
-<Title>TextHighlighter</title>
+<Title>TextHighlighter</Title>
 <Body>
-This is Website for TextHighlighter
-</body>
+<br/>This is Website for TextHighlighter
+</Body>
 </HEAD>
 </HTML>
