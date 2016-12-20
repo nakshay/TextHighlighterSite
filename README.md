@@ -2,7 +2,7 @@
 <HEAD>
 <Title>TextHighlighter</Title>
 <Body>
-<br/>This is Website for TextHighlighter
+<br/>[TextHighlighter](https://github.com/nakshay/TextHighlighter)
 </Body>
 </HEAD>
 </HTML>
