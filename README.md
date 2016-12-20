@@ -1,8 +1,8 @@
 <HTML>
 <HEAD>
-<Title>Index page</title>
+<Title>TextHighlighter</title>
 <Body>
- This is demo site
+This is Website for TextHighlighter
 </body>
 </HEAD>
 </HTML>
