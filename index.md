@@ -7,7 +7,7 @@ TextHighlighter is simple android API for developers to show highlighted text in
 The purpose of TextHighlighter API is provide the simplest way to highlight the text in android apps.
 The API can be used with all andriod views which allows the rendering of text using ```Html.fromHtml()``` method.
 
-<H2>Usage<H2>
+<H2>Usage</H2>
 
 Add below line in app ```build.gradle```
  
@@ -17,7 +17,7 @@ dependencies {
 }
 ```
 
-##Code snippets
+<H2>Code snippets</H2>
 
 Create the object of TextHighlighter
 
@@ -88,7 +88,7 @@ String[] = getStyleForTheToken(String[] token);
 ```
 
 
-##Note:
+<H2>Note:</H2>
 
 Named colors may not work always, you can use Hex values insted of named colors, hence using Hex values instead of named colors is recommended.
 
@@ -111,12 +111,12 @@ Example:-
 Visit [www.htmlcolorcodes](http://htmlcolorcodes.com/) for awesome colors and their Hex values. 
 
 
-##Screenshot
+<H2>enshot</H2>
 
 
 ![alt tag](https://raw.githubusercontent.com/nakshay/TextHighlighter/master/screenshot.png) ![alt tag](https://raw.githubusercontent.com/nakshay/TextHighlighter/master/TextHighlighter.png)
 
-##License
+<H2>License</H2>
 
 Copyright 2016 AKSHAY NAIK
 
