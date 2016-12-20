@@ -7,7 +7,7 @@ TextHighlighter is simple android API for developers to show highlighted text in
 The purpose of TextHighlighter API is provide the simplest way to highlight the text in android apps.
 The API can be used with all andriod views which allows the rendering of text using ```Html.fromHtml()``` method.
 
-##Usage
+<H2>Usage<H2>
 
 Add below line in app ```build.gradle```
  
