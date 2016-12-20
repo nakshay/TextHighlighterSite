@@ -111,7 +111,7 @@ Example:-
 Visit [www.htmlcolorcodes](http://htmlcolorcodes.com/) for awesome colors and their Hex values. 
 
 
-<H2>enshot</H2>
+<H2>Screenshot</H2>
 
 
 ![alt tag](https://raw.githubusercontent.com/nakshay/TextHighlighter/master/screenshot.png) ![alt tag](https://raw.githubusercontent.com/nakshay/TextHighlighter/master/TextHighlighter.png)
